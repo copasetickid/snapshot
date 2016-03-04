@@ -1,0 +1,28 @@
+{
+  "name": "snapshot",
+  "version": "1.0.0",
+  "description": "Real time photo feed of Twitter pics built in React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/copasetickid/snapshot.git"
+  },
+  "keywords": [
+    "React",
+    "real-time",
+    "twitter"
+  ],
+  "author": "Rushaine McBean",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/copasetickid/snapshot/issues"
+  },
+  "homepage": "https://github.com/copasetickid/snapshot#readme",
+  "devDependencies": {
+    "browserify": "^13.0.0",
+    "gulp": "^3.9.1"
+  }
+}
