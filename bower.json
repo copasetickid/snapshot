@@ -1,0 +1,19 @@
+{
+  "name": "snapshot",
+  "version": "0.0.0",
+  "homepage": "https://github.com/copasetickid/snapshot",
+  "authors": [
+    "Rushaine McBean <rushaine.mcbean@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "~3.3.6"
+  }
+}

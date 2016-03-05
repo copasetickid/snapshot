@@ -2,7 +2,7 @@
   "name": "snapshot",
   "version": "1.0.0",
   "description": "Real time photo feed of Twitter pics built in React",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -22,7 +22,12 @@
   },
   "homepage": "https://github.com/copasetickid/snapshot#readme",
   "devDependencies": {
+    "babelify": "^7.2.0",
     "browserify": "^13.0.0",
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "gulp-bower": "0.0.13",
+    "gulp-notify": "^2.2.0",
+    "gulp-ruby-sass": "^2.0.6",
+    "vinyl-source-stream": "^1.1.0"
   }
 }
